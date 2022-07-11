@@ -38,12 +38,16 @@ Se trata de un PacMan con tema de Tom y Jerry.
 
 ### Figuras del juego
 Bloque color cafe: Jerry
+
 Bloques color gris: enemigos (Tom)
+
 Circulos color amarillo: Quesos
 
 Indicadores
 Puntaje: Cantidad de quesos que jerry se ha comido.
+
 Nivel: Nivel en el que se encuentra el jugador.
+
 Vidas: Numero de vidas restantes.
 
 ### Explicacion del juego
