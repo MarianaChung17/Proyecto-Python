@@ -43,7 +43,7 @@ Bloques color gris: enemigos (Tom)
 
 Circulos color amarillo: Quesos
 
-Indicadores
+### Indicadores
 Puntaje: Cantidad de quesos que jerry se ha comido.
 
 Nivel: Nivel en el que se encuentra el jugador.
