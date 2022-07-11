@@ -26,7 +26,7 @@ Se trata de un PacMan con tema de Tom y Jerry.
 - Nivel 1: Nivel de inicio, modo facil, 2 enemigos.
 - Nivel 2: Modo intermedio, 4 enemigos.
 - Nivel 3: Nivel de poder. Enemigos no pueden matar a Jerry.
-- Nivel 4: Modo dificil, 8 enemigos.
+- Nivel 4: Modo dificil, 6 enemigos.
 
 ### Controles
 - Tecla R: Reinicia el juego.
